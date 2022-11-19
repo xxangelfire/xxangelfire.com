@@ -1,0 +1,45 @@
+baseURL = "http://xxangelfire.com/"
+languageCode = "en-us"
+title = "xxangelfire.eth"
+theme = "notrack"
+newContentEditor = "nvim"
+mainSections = ["blog"]
+# disqusShortname = "example"
+paginate = 4
+
+[params]
+  author = "xxangelfire.eth"
+  siteHeading = "xxangelfire.eth" # defaults to author
+  favicon = "" # Adds a small icon next to the page title in a tab
+  showBlogLatest = false
+  mainSections = ["blog"]
+  showTaxonomyLinks = false
+  nBlogLatest = 4 # number of blog post om the home page
+  blogLatestHeading = "Blog"
+
+[menu]
+[[menu.main]]
+  identifier = 'home'
+  name = 'Home'
+  url = '/'
+  weight = -110
+[[menu.main]]
+  name = 'Blog'
+  url = '/blog/'
+  weight = -100
+
+
+
+  [params.social]
+    github = "xxangelfire"
+    email = "me@xxangelfire.com"
+    twitter = "2xangelfire"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug"

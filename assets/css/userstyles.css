@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+.page-header {
+    margin-top: 0;
+}
+
+.myname a {
+    font-family: sans-serif;
+    font-style: initial;
+    font-size: 2rem;
+}
+
+figure {
+    margin: auto;
+    text-align: center;
+}
+
+article {
+    text-align: justify;
+    word-break: break-word;
+    hyphens: auto;
+    -moz-hyphens: auto;
+}
+
+figure img, figure video {
+    border: 1px solid black;
+    max-width: 100%;
+    background-color: white;
+}
+
