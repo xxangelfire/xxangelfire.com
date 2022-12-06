@@ -7,10 +7,14 @@ date: 2022-10-10T03:58:19-04:00
 
 ## Hello! I'm xxangelfire
 
-I am a smart-contract dev and ½ of
-[DeliverDAO](https://daodao.zone/dao/juno1qw7da3njp4kuke55g4feaccshvk5s6uz5mjjn2ldkl08ruk9l7dsvrveuw)
-on Juno. We are building a prediction market called
-[Forecast](https://forecast.deliverdao.org) for betting on the price of IBC assets like JUNO.
+I am a smart-contract dev building on Juno with the [Council of
+Czars](https://daodao.zone/dao/juno13h55qdra3pg87ataedu204jtvezvs6kefqv79m5jmkx084jgzdzszzw7ky)
+DAO. [Dionysus](https://twitter.com/xdionysuss) and I built a prediction market called
+[Førecast](https://forecast.deliverdao.org) for betting on the price of IBC
+assets like Juno. The fees collected from the Førecast dApp are distributed to
+stakers of the DAO's native token. You can read more about both CzarDAO and
+Førecast in the DAO's
+[Gitbook](https://czardaos-organization.gitbook.io/forecast-or-czar-dao/)
 
 I also operate a bare-metal validator called
 「[Shinonome
